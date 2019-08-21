@@ -21,4 +21,4 @@ spring.influxdb.retentionPolicy=autogen
 
 # Postman API
 
-http://localhost:8080/api/v1/NOAAWater/h2os
+http://localhost:8080/api/v1/track
